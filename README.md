@@ -7,9 +7,13 @@
 
 ## I am:
 Self-taught programmer
+
 Studying for OSCP, network+, security+
+
 I like coding and scriptingin: go, c, python, bash
-improving my powershell, js, php
+
+Hoping improve the above and aswell powershell, js, php
+
 https://tryhackme.com/p/nvm
 
 ### Goals for 2022:
