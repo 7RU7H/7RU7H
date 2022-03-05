@@ -47,11 +47,13 @@ AllTheHAckingScripts - Anything I have made or found that was useful, no exploit
 ## Project Plans
 
 sguidBinsEnum.sh    = GTFObins suidguid checker - Scrolling through GTFObins and CLI  takes time currently testing 
+
 lolbasEnum.ps1      = similar to sguidBinsEnum.sh, but for getting better a powershell and automating window privEsc
+
 TzobBoxOfSecrets    = cryptographic vision coin generator to showcase golang skills and use all the l33tcode problems and geekforgeek problems solved
 
 gufferGopherFlow.go = buffer overflow helper suite of scripts for binex, mostly in conjection with learn more go and binex possiblities.
-                     - plans to extend with cli and some refactoring, a farting gopher upon a stack/heap
+                    - plans to extend with cli and some refactoring, a farting gopher upon a stack/heap
                      
 nvmRecon.sh         = recon script to get better at bash, automate CTFs method, learn and add more tools
 Gh057Nmap           = extension to Nmap to make the most evasive nmap scan possible
