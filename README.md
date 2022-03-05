@@ -10,7 +10,7 @@ Self-taught programmer
 
 Studying for OSCP, network+, security+
 
-I like coding and scriptingin: go, c, python, bash
+I like coding and scripting in: go, c, python, bash
 
 Hoping improve the above and aswell powershell, js, php
 
