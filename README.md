@@ -3,8 +3,10 @@
 ## Looking for mentorship and help! Markdown and a nice clean github page is on the way lol.
 
 ## I am:
+Self-taught programmer
 Studying for OSCP, network+, security+
-I like coding and scriptingin: go, c, python, bash, powershell
+I like coding and scriptingin: go, c, python, bash
+improving my powershell, js, php
 
 ### Goals for 2022:
 Pass OSCP before end of the year and go for OSWP before 2023 if possible
