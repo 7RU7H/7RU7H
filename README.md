@@ -8,6 +8,8 @@ Studying for OSCP, network+, security+
 I like coding and scriptingin: go, c, python, bash
 improving my powershell, js, php
 
+<script src="https://tryhackme.com/badge/499877"></script>
+
 ### Goals for 2022:
 Pass OSCP before end of the year and go for OSWP before 2023 if possible
 Archive all my old notes, scripts, as part of building cheatsheets galore
