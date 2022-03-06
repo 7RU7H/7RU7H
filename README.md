@@ -1,9 +1,6 @@
-# Still very new to github. Seeing Project plans for what will end up here.
-## Markdown and a nice clean github page is on the way lol.
+# Still very new to github. 
 
-
-## Looking for mentorship and help! 
-
+## Looking for mentorship and help, happy to do monkey work
 
 ## I am:
 Self-taught programmer
