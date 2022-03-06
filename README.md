@@ -10,9 +10,9 @@ Self-taught programmer
 
 Studying for OSCP, network+, security+
 
-I like coding and scripting in: go, c, python, bash
+I like coding and scripting in: go, c
 
-Hoping improve the above and aswell powershell, js, php
+Hoping improve the above and aswell python, bash powershell, js, php
 
 https://tryhackme.com/p/nvm
 
