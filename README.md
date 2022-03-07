@@ -53,9 +53,13 @@ gufferGopherFlow.go = buffer overflow helper suite of scripts for binex, mostly 
                     - plans to extend with cli and some refactoring, a farting gopher upon a stack/heap
                      
 nvmRecon.go         = recon script to get better concurrency in go, automate CTFs method, learn and add more tools
+
+goHelp              = helpful function not in stdlib 
+
 Gh057Nmap           = extension to Nmap to make the most evasive nmap scan possible
 
 nexus.h             = c header file for graph theory
 
 unnamed             = make an actually useful rest api in golang probably related to c2s..
+
 
