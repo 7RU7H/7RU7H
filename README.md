@@ -1,6 +1,4 @@
-# Still very new to github. 
-
-## Looking for mentorship and help, happy to do monkey work
+#
 
 ## I am:
 Self-taught programmer
