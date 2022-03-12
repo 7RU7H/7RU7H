@@ -7,7 +7,9 @@ Studying for OSCP, network+, security+
 
 I like coding and scripting in: go, c
 
-Hoping improve the above and aswell python, bash powershell, js, php
+Hoping improve the above and aswell python, bash, powershell, 
+
+Maybe get better js, php
 
 https://tryhackme.com/p/nvm
 
@@ -27,7 +29,7 @@ Application written in Haskell
 
 OSWE and other OS certs
 
-Continue with my dream projects, I kept to myself as a self taught programmer, CS-related enthusiast of last seven years
+Continue with my dream projects(must AI related that got crushed-slightly by the pandemic), I kept to myself as a self taught programmer, CS-related enthusiast of last seven years
 
 That realised I need to be considerably better at Hacking, Datascience, functional programming and programming generally.
 
