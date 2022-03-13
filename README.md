@@ -11,7 +11,7 @@ Hoping improve the above and aswell python, bash, powershell,
 
 Maybe get better js, php
 
-https://tryhackme.com/p/nvm
+[Tryhackme Profile](https://tryhackme.com/p/nvm)
 
 ### Goals for 2022:
 Pass OSCP before end of the year and go for OSWP before 2023 if possible
