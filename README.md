@@ -52,7 +52,7 @@ TzobBoxOfSecrets.go    = cryptographic vision coin generator to showcase golang 
 gufferGopherFlow.go = buffer overflow helper suite of scripts for binex, mostly in conjection with learn more go and binex possiblities.
                     - plans to extend with cli and some refactoring, a farting gopher upon a stack/heap
                      
-nvmRecon.go         = recon script to get better concurrency in go, automate CTFs method, learn and add more tools
+nvmRecon.sh         = bash automate CTFs method, learn and add more tools
 
 goHelp              = helpful function not in stdlib 
 
