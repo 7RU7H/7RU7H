@@ -25,7 +25,6 @@ Contribute to communities that have helped
 Learn more than basic JS and Haskell, and make something related my general learning of cybersecurity 
 
 ### Hopes for beyond 2022:
-Application written in Haskell
 
 OSWE and other OS certs
 
