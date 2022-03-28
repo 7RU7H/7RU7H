@@ -14,7 +14,7 @@ Maybe get better js, php
 [Tryhackme Profile](https://tryhackme.com/p/nvm)
 
 ### Goals for 2022:
-Pass OSCP before end of the year and go for OSWP before 2023 if possible
+Pass OSCP before end of the year.
 
 Archive all my old notes, scripts, as part of building cheatsheets galore
 
