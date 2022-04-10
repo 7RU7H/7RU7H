@@ -28,7 +28,7 @@ Learn more than basic JS and Haskell, and make something related my general lear
 
 OSWE and other OS certs
 
-Continue with my dream projects(must AI related that got crushed-slightly by the pandemic), I kept to myself as a self taught programmer, CS-related enthusiast of last seven years
+Continue with my dream projects(most AI related that got crushed-slightly by the pandemic), I kept to myself as a self taught programmer, CS-related enthusiast of last seven years
 
 That realised I need to be considerably better at Hacking, Datascience, functional programming and programming generally.
 
