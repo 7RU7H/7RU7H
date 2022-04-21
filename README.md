@@ -26,7 +26,9 @@ Learn more than basic JS and Haskell, and make something related my general lear
 
 ### Hopes for beyond 2022:
 
-OSWE and other OS certs
+OS certs
+
+Complete https://github.com/guyinatuxedo/nightmare
 
 Continue with my dream projects(most AI related that got crushed-slightly by the pandemic), I kept to myself as a self taught programmer, CS-related enthusiast of last seven years
 
