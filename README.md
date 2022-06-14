@@ -1,6 +1,6 @@
 ## I am:
 Self-taught programmer, studying for OSCP, network+, security+.  
-I like coding and scripting in: go, c hoping improve the above and aswell python, bash, powershell.  
+I like coding and scripting in: go, c, rust hoping improve the above and aswell python, bash, powershell.  
 Maybe get better at js and exploiting php.
 
 [Tryhackme Profile](https://tryhackme.com/p/nvm)
