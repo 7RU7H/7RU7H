@@ -3,6 +3,7 @@ The Prime Archivist of the Archive Repo, Self-taught programmer, Ethical Hacker
 
 Soon to have certs incoming...   
 
+
 ## Goals for 2023:
 
 Update the README.md more...  
@@ -29,7 +30,8 @@ Update the README.md more...
 
 ## Hopes for far future beyond:
 
-- DEFCON Blackbadge in something at this rate just SE
+- Grammarly does not make a markdown editor.. one Dyslexic man can only watch so many ads for grammarly with dreams of his our spellchecker for the Archive..sorry about the spelling btw...
+- DEFCON Blackbadge - at this rate just SE
 - Complete https://github.com/guyinatuxedo/nightmare  - time 
 - MORE OS Certs!  
 - Prep for CRTO; insert-DFIR-cert-here 2024
