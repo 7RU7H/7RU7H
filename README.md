@@ -16,10 +16,14 @@ Update the README.md more...
 
 #### Generally
 
-- Continue Archiving away the ultimate Computer-Science/AI/Hacking/Programming markdown second brain.  
+- Continue Archiving away the ultimate Computer-Science/AI/Hacking/Programming markdown second brain. Keeping it free forever! 
 - Refactor and finish projects  
-- Contribute to communities that have helped me so much.   
-- Find Tech Job, Tech Friends, Tech Cons, 
+  - Complete the segmentation of H4dd1xB4dge - OSINT automation is pretty much finished; Web related to Rust; No Portscanning  
+  - Finish a API for Archive, almost uploadable
+  - Make NinjaShell Usable - go seems like it going full telemetry at some point so bye best malware ..maybe or maybe for the best
+  - Make Azure Lab for CTF
+- Contribute to communities that have helped me so much - Vulnerable Machines - on the way to being testable.
+- Find Tech Job, Tech Friends and Tech Cons 
 - Do 2 charity pentests
 - Win/Lose 10 HTB Battlegrounds and THM KOTH 
 - THM retain top 30
@@ -39,9 +43,9 @@ Update the README.md more...
 - Get more involved in Open Source 
 - Automate my way into some cybernetic future
 - Continue with my dream projects 
--   Archive
--   AI
--   Hardcore Computer Science Stuff
--   Hacking Time itself
--   Help humanity through this dark century to live to see the next and beyond!
+  - Archive
+  - AI
+  - Hardcore Computer Science Stuff
+  - Hacking Time itself
+  - Help humanity through this dark century to live to see the next and beyond!
 - Extend my life to learn more
