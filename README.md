@@ -21,6 +21,7 @@ Update the README.md more...
   - Complete the segmentation of H4dd1xB4dge - OSINT automation is pretty much finished; Web related to Rust; No Portscanning  
   - Finish a API for Archive, almost uploadable
   - Make NinjaShell Usable - go seems like it going full telemetry at some point so bye best malware ..maybe or maybe for the best
+  - C based Serverstack - DNS, LDAP, SSH, HTTP(S), KRB5 with thread to solidify all my C related learning and work  
   - Make Azure Lab for CTF
 - Contribute to communities that have helped me so much - Vulnerable Machines - on the way to being testable.
 - Find Tech Job, Tech Friends and Tech Cons 
