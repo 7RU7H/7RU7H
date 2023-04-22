@@ -20,18 +20,18 @@ Update the README.md more...
 - Refactor and finish projects  
   - Complete the segmentation of H4dd1xB4dge - OSINT automation is pretty much finished; Web related to Rust; No Portscanning  
   - Finish a API for Archive, almost uploadable
-  - Make NinjaShell Usable - go seems like it going full telemetry at some point so bye best malware ..maybe or maybe for the best
+  - Shadow once Ninjashell - build out basics 
   - C based Serverstack - DNS, LDAP, SSH, HTTP(S), KRB5 with thread to solidify all my C related learning and work  
   - Make Azure Lab for CTF
 - Contribute to communities that have helped me so much - Vulnerable Machines - on the way to being testable.
 - Find Tech Job, Tech Friends and Tech Cons 
 - Do 2 charity pentests
 - Win/Lose 10 HTB Battlegrounds and THM KOTH 
-- THM retain top 30
+- THM retain top 35
 - HTB Pro Labs - Dante and push for Rasta
 - Finish 40 Challenges
 - Finish 100+ Retired Machines
-- HTB Season Rank  
+- HTB Season Raking once the beta ends 
 
 ## Hopes for far future beyond:
 
